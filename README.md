@@ -1,5 +1,5 @@
 
-# Project Title
+# Voice Assistant
 
 This Python script introduces a versatile Voice Assistant designed to carry out diverse tasks, from fetching Wikipedia data to web browsing. The cornerstone of this assistant lies in the SpeechRecognition API, empowering it to seamlessly convert spoken words into text, a crucial aspect of voice-controlled applications like Siri or Alexa.
 
